@@ -6,7 +6,7 @@ import org.springframework.core.io.FileSystemResource;
 
 import com.app.config.AppConfig;
 import com.app.seder.AppMailSeder;
-//ctrl+sift+O
+//ctrl+sift+O 
 public class Test {
 
 	public static void main(String[] args) {
